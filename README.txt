@@ -13,3 +13,5 @@ putting the output into outFile.txt
 
 
 Refer to input.txt for more info for interaction with the program
+
+NOTE: c++ ver 17 is required 
